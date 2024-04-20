@@ -1,6 +1,6 @@
 **Author:Tharani**   
 
-#Creation of a Table using DOM
+***Creation of a Table using DOM***
 
   - A table created   
   - The heeader of the table is created with bootstrap class [thead-dark] theme   
